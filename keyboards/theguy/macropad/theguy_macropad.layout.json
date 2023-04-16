@@ -1,0 +1,113 @@
+{
+  "name": "TheGuy Macropad",
+  "vendorProductId": 302603520,
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "layers": [
+    [
+      "KC_Z",
+      "S(KC_R)",
+      "A(KC_R)",
+      "C(KC_I)",
+      "C(KC_T)",
+      "C(KC_U)",
+      "C(KC_F)",
+      "C(KC_D)",
+      "C(KC_K)",
+      "C(KC_N)",
+      "C(KC_O)",
+      "KC_NO",
+      "TO(1)",
+      "C(KC_A)",
+      "C(S(KC_G))",
+      "C(KC_V)",
+      "KC_NO",
+      "TO(0)"
+    ],
+    [
+      "KC_A",
+      "KC_B",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "KC_F",
+      "KC_A",
+      "KC_B",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "KC_F",
+      "TO(2)",
+      "TO(2)",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "TO(0)"
+    ],
+    [
+      "KC_A",
+      "KC_B",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "KC_F",
+      "KC_A",
+      "KC_B",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "KC_F",
+      "TO(3)",
+      "KC_B",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "TO(0)"
+    ],
+    [
+      "KC_A",
+      "KC_B",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "KC_F",
+      "KC_A",
+      "KC_B",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "KC_F",
+      "TO(0)",
+      "KC_B",
+      "KC_C",
+      "KC_D",
+      "KC_E",
+      "TO(0)"
+    ]
+  ],
+  "encoders": [
+    [
+      ["C(S(KC_DEL))", "C(S(KC_INS))"],
+      ["KC_G", "KC_H"],
+      ["KC_G", "KC_H"],
+      ["KC_G", "KC_H"]
+    ],
+    [
+      ["C(KC_DEL)", "C(KC_INS)"],
+      ["KC_G", "KC_H"],
+      ["KC_G", "KC_H"],
+      ["KC_G", "KC_H"]
+    ],
+    [
+      ["C(KC_PGDN)", "C(KC_PGUP)"],
+      ["KC_G", "KC_H"],
+      ["KC_G", "KC_H"],
+      ["KC_G", "KC_H"]
+    ],
+    [
+      ["C(KC_END)", "C(KC_HOME)"],
+      ["KC_G", "KC_H"],
+      ["KC_G", "KC_H"],
+      ["KC_G", "KC_H"]
+    ]
+  ]
+}
