@@ -24,6 +24,7 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 ## Default Key Map for MSFS
 
+```
 +-----+-----+-----+-----+-----+-----+
 | AP  | A/T | SPD | HDG | ALT | V/S |
 +-----+-----+-----+-----+-----+-----+
@@ -31,6 +32,7 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 +-----+-----+-----+-----+-----+-----+
 | LAY | APR | GA  | LVL | NP  | LAY |
 +-----+-----+-----+-----+-----+-----+
+```
 
 NP: No Op
 
